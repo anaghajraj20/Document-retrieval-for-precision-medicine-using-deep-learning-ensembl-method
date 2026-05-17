@@ -1,0 +1,2 @@
+# Document-retrieval-for-precision-medicine-using-deep-learning-ensembl-method
+A full implementation of a multi-stage biomedical information retrieval pipeline based on Liu et al., JMIR Medical Informatics, 2021 (e28272). The system retrieves and ranks PubMed abstracts against structured patient queries from the TREC 2019 Precision Medicine Track, combining classical BM25 retrieval with deep learning re-ranking.
